@@ -7,7 +7,7 @@ The triage model should identify patients
 * with high risk these are sent to the covid ward and closely monitored
 * with unknown risk these are traiged by a medical professional.
 
-![[Pasted image 20240412164716.png]]
+![](Pasted%20image%2020240412164716.png)
 
 # Required treatment
 
@@ -23,10 +23,10 @@ Ideally we do not want false negatives in our model as these patients would be s
 - medical unit: type of institution of the National Health System that provided the care.
 
 Some medical units only offer second level care
-![[Pasted image 20240412134735.png]]
+![](Pasted%20image%2020240412134735.png)
 
 Second level care more likely to send home than first level car
-![[Pasted image 20240412135345.png]]
+![](Pasted%20image%2020240412135345.png)
 ### Patient Details
 - sex: 1 for female and 2 for male.
 - age: of the patient.
