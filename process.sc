@@ -26,7 +26,7 @@ def makeDied(value: String): String = value match {
     case _ => "yes"
 }
 
-def makeRequiredTreatment(dateDied: String, icu: String, intubed: String, patientType: String): String = {
+def makeRequiredTreatment(dateDied: String, icu: String, intubed: String, patientType: String   ): String = {
     if (dateDied != "9999-99-99") "yes"
     else if (icu == "1") "yes"
     else if (intubed == "1") "yes"
